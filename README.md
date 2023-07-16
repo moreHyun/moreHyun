@@ -25,3 +25,16 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
+
+<div>
+  <br/>
+  ✨ About Me
+  <br/>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moreHyun"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/manymorehyun/29ef1243cbce49eabb603feec7b49956"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manymorehyun@gmail.com"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+</div>
