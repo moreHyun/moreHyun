@@ -4,12 +4,13 @@
 
 <div>
   <br/>
-  📚 Skill tree ⚒️
+  📚 Skill tree
   # <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
   <br/>
 </div>
 
 <div>
+  <br/>
   <img src="https://img.shields.io/badge/java-00A98F?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
