@@ -36,7 +36,7 @@ I majored in both Chinese and Business Administration in University. It's not re
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moreHyun"/>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/manymorehyun/29ef1243cbce49eabb603feec7b49956"/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manymorehyun@gmail.com)]
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white&link="https://github.com/moreHyun""/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white&link="https://www.notion.so/manymorehyun/29ef1243cbce49eabb603feec7b49956""/>
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manymorehyun@gmail.com"/>
 </div>
