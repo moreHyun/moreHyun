@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmoreHyun%2Fhit-counter&count_bg=%233CBDCD&title_bg=%239F9F9F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br/>
-😊 Hello! I'm moreHyun. I'm open back-end and front-end developer who loves to talk about web/app technologies and trends.
+😊 Hello! I'm moreHyun. I'm open back-end developer who loves to talk about web/app technologies and trends.
 I majored in both Chinese and Business Administration in University. It's not related to computer science, but I enjoy studying and creating as a developer.
 
 <div>
